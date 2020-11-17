@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react';
 
 const VideoDetail = ({video}) => {
     if (!video) {
